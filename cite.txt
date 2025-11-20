@@ -1,0 +1,31 @@
+help from mr aiello
+
+-reminded me to reference his own code that he posted
+-helped explain filtering for text files in userstory class
+
+references from other code levels
+
+-reviewed majority of code levels from unit
+
+help from my cousin in the philippines
+
+- read my code and tried to research why my code is wrong
+- reminded me that I forgot to return a boolean statement
+- never gonna ask him for help again
+
+Google
+
+- researched how to set up scanner input for formatting
+- not that big of a help
+
+ChatGPT
+
+- asked what's wrong with my code, and how I can fix so the scanner can work
+- told me what was wrong, showed that I needed a boolean for method to work
+-asked what I did wrong with a food method
+- after multiple uploads, made me realize I did not reference the text file at all
+
+YouTube
+
+- research in how I can get the scanner to check if it matches an array
+- remembers the .nextLine was for Strings in scanners
